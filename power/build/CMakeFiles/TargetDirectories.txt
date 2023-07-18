@@ -1,0 +1,3 @@
+/Users/rajeshrao/Desktop/power/power/build/CMakeFiles/main.dir
+/Users/rajeshrao/Desktop/power/power/build/CMakeFiles/edit_cache.dir
+/Users/rajeshrao/Desktop/power/power/build/CMakeFiles/rebuild_cache.dir
