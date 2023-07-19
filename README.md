@@ -1,2 +1,3 @@
 # Power
-power is power
+
+making shaders mostly focusing on explosions
