@@ -1,3 +1,3 @@
-# Power
+# EXPERIMENTS
 
-making shaders mostly focusing on explosions
+EXPERIMENTAL REPO
